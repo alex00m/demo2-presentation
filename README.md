@@ -7,21 +7,18 @@ The main aim of a project:
 
 > -----
 
-![Image](https://github.com/a0morshna/demo2-presentation/blob/main/slides/project-scheme.jpg)
+![Image](https://github.com/alex00m/demo2-presentation/blob/main/slides/scheme.jpg)
 
 > -----
 
-![Image](https://github.com/a0morshna/demo2-presentation/blob/main/slides/infrastructure.jpg)
+![Image](https://github.com/alex00m/demo2-presentation/blob/main/slides/tf-infrastructure.jpg)
 
 > -----
 
-![Image](https://github.com/a0morshna/demo2-presentation/blob/main/slides/build-step.jpg)
+![Image](https://github.com/alex00m/demo2-presentation/blob/main/slides/build%26deploy.jpg)
 
 > -----
 
-![Image](https://github.com/a0morshna/demo2-presentation/blob/main/slides/deploy-result.jpg)
-
-> -----
 
 
 
